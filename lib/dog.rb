@@ -10,5 +10,6 @@ class Dog
   end
 end
 
+lassie
 dog_one_name = "Spot"
 puts dog_one_name.name
