@@ -12,4 +12,4 @@ end
 
 spot = Dog.new
 spot.name = "Spot"
-puts dog_one_name.name
+puts spot.name
