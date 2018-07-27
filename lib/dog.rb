@@ -10,6 +10,6 @@ class Dog
   end
 end
 
-lassie = Dog.new
-dog_one_name = "Spot"
+spot = Dog.new
+spot.name = "Spot"
 puts dog_one_name.name
