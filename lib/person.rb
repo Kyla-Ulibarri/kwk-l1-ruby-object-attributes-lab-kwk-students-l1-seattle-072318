@@ -10,4 +10,6 @@ class Person
   end
 end
 
-lia = Person.new
+amara = Person.new
+amara.name = "Amara"
+puts amara.name
