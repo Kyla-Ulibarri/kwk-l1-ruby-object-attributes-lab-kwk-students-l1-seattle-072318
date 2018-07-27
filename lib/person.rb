@@ -8,8 +8,18 @@ class Person
   def name
     @name
   end
+  
+  def job=(person_job)
+    @job = person_job
+  end
+  
+  def job
+    @job
+  end
 end
 
 amara = Person.new
 amara.name = "Amara"
+amara.job = "EMT"
 puts amara.name
+puts amara.job
