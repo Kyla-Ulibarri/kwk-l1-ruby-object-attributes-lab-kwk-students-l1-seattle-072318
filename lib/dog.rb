@@ -11,4 +11,4 @@ class Dog
 end
 
 dog_one_name = "Spot"
-puts dog_one_name.name
+puts dog_one_name.dog_name
