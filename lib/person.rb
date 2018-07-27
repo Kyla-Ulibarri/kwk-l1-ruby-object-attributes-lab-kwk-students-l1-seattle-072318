@@ -9,4 +9,5 @@ class Person
     @name
   end
 end
- = Person.new
+
+lia = Person.new
