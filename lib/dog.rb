@@ -5,10 +5,10 @@ class Dog
     @dog_one_name=dog_name
   end
   
-  def dog_name
+  def name
     @dog_one_name
   end
 end
 
 dog_one_name = "Spot"
-puts dog_one_name.dog_name
+puts dog_one_name.name
