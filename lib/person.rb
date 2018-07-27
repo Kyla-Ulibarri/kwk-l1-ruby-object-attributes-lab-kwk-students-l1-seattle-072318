@@ -9,5 +9,4 @@ class Person
     @name
   end
 end
-
-Amara = Person.new
+ = Person.new
